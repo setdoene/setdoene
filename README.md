@@ -2,7 +2,7 @@
 
 
 ### 🛠️ Building projects with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,c++,java,py,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,py,arduino)](https://skillicons.dev)
 ### 🔧 Tool
 
 ### GitHub Stats:
