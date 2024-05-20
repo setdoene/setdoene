@@ -1,4 +1,4 @@
-<p dir="auto">👋Hey,I'm set</p>
+#👋Hey,I'm set
 
 
 # 💻 Tech Stack:
